@@ -1,6 +1,7 @@
 # Playwright Tests
 
-Demo project with end-to-end tests using playwright
+Demo project with end-to-end tests using playwright.
+Using unrelated external project https://www.thatquiz.org/ for experimentation.
 
 # Tech stack used:
 
